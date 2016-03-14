@@ -1,0 +1,20 @@
+#logo {
+  margin: 200px auto 0 0;
+}
+
+#search {
+  margin: 27px auto;
+  border: 1px solid #DDDDDD;
+  height: 38px;
+  width: 600px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 31px;
+  border: 0px;
+  width: 272px;
+  height: 36px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
