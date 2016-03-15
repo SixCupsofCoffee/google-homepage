@@ -9,19 +9,9 @@
   width: 600px;
 }
 
-table {
-  border-collapse: collapse;
-  margin-top: 31px;
-  border: 0px;
-  width: 272px;
-  height: 36px;
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  -webkit-appearance: none;
-}
-
 form input {
   margin: 4px;
   border: 0px solid #DDDDDD;
   font-size: 26px;
+
 }
