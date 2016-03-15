@@ -17,4 +17,11 @@ table {
   height: 36px;
   font-family: Arial, sans-serif;
   font-weight: bold;
+  -webkit-appearance: none;
+}
+
+form input {
+  margin: 4px;
+  border: 0px solid #DDDDDD;
+  font-size: 26px;
 }
