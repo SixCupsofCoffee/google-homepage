@@ -9,9 +9,79 @@
   width: 600px;
 }
 
+#search:hover {
+  border: 1px solid blue;
+}
+
 form input {
   margin: 4px;
   border: 0px solid #DDDDDD;
-  font-size: 26px;
+  font-size: 24px;
+  width: 90%;
+  outline: 0px;
+}
 
+#buttons {
+  width: 272px;
+  margin: auto;
+}
+
+#button-left {
+  display: inline-block;
+  border: 1px solid #F2F2F2;
+  width: auto;
+  float: left;
+  padding: 10px 15px 10px 15px;
+  height: 14px;
+  margin-top: 4px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #F2F2F2;
+  color: #777777;
+}
+
+#button-right {
+  display: inline-block;
+  border: 1px solid #F2F2F2;
+  width: auto;
+  float: right;
+  padding: 10px 15px 10px 15px;
+  height: 14px;
+  margin-top: 4px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #F2F2F2;
+  color: #777777;
+}
+
+#button-left:hover {
+  display: inline-block;
+  border: 1px solid #BBBBBB;
+  width: auto;
+  float: left;
+  padding: 10px 15px 10px 15px;
+  height: 14px;
+  margin-top: 4px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #F2F2F2;
+  color: #111111;
+}
+
+#button-right:hover {
+  display: inline-block;
+  border: 1px solid #BBBBBB;
+  width: auto;
+  float: right;
+  padding: 10px 15px 10px 15px;
+  height: 14px;
+  margin-top: 4px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #F2F2F2;
+  color: #111111;
 }
