@@ -107,5 +107,23 @@ form input {
 }
 
 #footer {
-    
+  height: 42px;
+  background-color: #EEEEEE;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  vertical-align: middle;
 }
+
+span ul li {
+  font-size: 13px;
+  padding-right: 23px;
+  color: #505050;
+}
+
+/* To do:
+  - Lighten up text one shade on "John" and footer bar text
+  - Perfect positioning of text on bottom of screen
+  - Right part of footer*/
