@@ -119,8 +119,16 @@ form input {
 
 span ul li {
   font-size: 13px;
-  padding-right: 23px;
+  /*padding-right: 23px;*/
   color: #505050;
+}
+
+.footer-right {
+  padding-left: 18px;
+}
+
+.footer-left {
+  padding-right: 18px;
 }
 
 /* To do:
